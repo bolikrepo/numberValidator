@@ -8,7 +8,7 @@ namespace numberValidator
         {
             VehicleVinOperations operations = new VehicleVinOperations();
 
-            operations.CheckVIN("JHMCM56557C404453");
+            operations.CheckVIN("MHMCM56557C404453");
         }
     }
 }
