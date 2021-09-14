@@ -1,0 +1,13 @@
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\bin\Debug\netcoreapp3.1\numberValidator.exe
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\bin\Debug\netcoreapp3.1\numberValidator.deps.json
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\bin\Debug\netcoreapp3.1\numberValidator.runtimeconfig.json
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\bin\Debug\netcoreapp3.1\numberValidator.runtimeconfig.dev.json
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\bin\Debug\netcoreapp3.1\numberValidator.dll
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\bin\Debug\netcoreapp3.1\numberValidator.pdb
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\obj\Debug\netcoreapp3.1\numberValidator.csprojAssemblyReference.cache
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\obj\Debug\netcoreapp3.1\numberValidator.AssemblyInfoInputs.cache
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\obj\Debug\netcoreapp3.1\numberValidator.AssemblyInfo.cs
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\obj\Debug\netcoreapp3.1\numberValidator.csproj.CoreCompileInputs.cache
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\obj\Debug\netcoreapp3.1\numberValidator.dll
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\obj\Debug\netcoreapp3.1\numberValidator.pdb
+C:\Users\k9-09\source\repos\numberValidator\numberValidator\obj\Debug\netcoreapp3.1\numberValidator.genruntimeconfig.cache
