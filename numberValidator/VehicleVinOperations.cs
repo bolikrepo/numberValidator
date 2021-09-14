@@ -46,7 +46,7 @@ namespace numberValidator
         {
             String vinW = remoteWS(VIN_WEIGHT, "");
 
-            int chk = 0;
+            float chk = 0;
 
             for (int i = 0; i < digitVin.Length; i++)
             {
@@ -69,8 +69,19 @@ namespace numberValidator
                     chk += val * charVal;
                 }
 
-                Console.WriteLine($"vin value: {val}, weight value: {charVal}, chk: {chk}");
+                // Console.WriteLine($"vin value: {val}, weight value: {charVal}, chk: {chk}");
+
             }
+
+            float temp = chk / 11;
+
+            int output = (int)Math.Round(temp, 0);
+
+            output *= 11;
+
+            chk -= output;
+
+            Console.WriteLine(chk);
 
             return 0;
         }
